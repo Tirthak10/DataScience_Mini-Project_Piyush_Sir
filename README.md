@@ -323,11 +323,4 @@ District-Level Agricultural Census Crop Sample Data.
 
 ---
 
-# 🎉 **Your README Is Ready.**
 
-If you want:
-✅ Custom project banner
-✅ Custom badges (Python, dataset size, last commit)
-✅ Auto-generated image exports from your notebook
-
-Just tell me — I can add them instantly.
