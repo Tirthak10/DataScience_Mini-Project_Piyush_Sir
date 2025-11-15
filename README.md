@@ -1,6 +1,6 @@
 # DataScience_Mini-Project_Piyush_Sir
 
-this will include:
+This Readme include:
 
 ✔ Stunning formatting
 ✔ Badges
