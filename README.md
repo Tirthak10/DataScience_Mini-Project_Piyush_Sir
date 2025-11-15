@@ -1,9 +1,6 @@
 # DataScience_Mini-Project_Piyush_Sir
 
-Perfect.
-I will now generate the **BEST, MOST VISUALLY BEAUTIFUL, EXTREMELY DETAILED, TOP-TIER GitHub README** for your **Agricultural Census Data Analysis Project (EDA only, no ML)**.
-
-It will include:
+this will include:
 
 ✔ Stunning formatting
 ✔ Badges
